@@ -1,0 +1,33 @@
+{
+  "name": "دنتال‌یار | بررسی گرافی و معرفی دندانپزشک",
+  "short_name": "دنتال‌یار",
+  "description": "بررسی رایگان عکس رادیولوژی دندان (OPG) و معرفی به دندانپزشکان معتمد در ماهدشت، کرج و پردیس",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "fa",
+  "background_color": "#f8fafc",
+  "theme_color": "#0d9488",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
